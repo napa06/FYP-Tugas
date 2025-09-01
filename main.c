@@ -8,7 +8,7 @@ int main() {
     scanf("%s", x);
 
 if (strcmp(x, "Halo") == 0) {
-    printf("\nHello, Saya Dev Karel Christanto\n");
+    printf("\nHalo, Saya Dev Karel Christanto\n");
     printf("Bahasa Pemograman kesukaan saya sekarang adalah bahasa C\n");
     printf("Karena itu bahasa pertama yang saya pelajari di FYP ini\n");
     } else {
