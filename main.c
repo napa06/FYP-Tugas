@@ -4,11 +4,11 @@
 int main() {
 
     char x[10];
-    printf("Katakan Halo: \n");
+    printf("Katakan Halo: ");
     scanf("%s", x);
 
-if (strcmp(x, "halo") == 0) {
-    printf("Hello, Saya Dev Karel Christanto\n");
+if (strcmp(x, "Halo") == 0) {
+    printf("\nHello, Saya Dev Karel Christanto\n");
     printf("Bahasa Pemograman kesukaan saya sekarang adalah bahasa C\n");
     printf("Karena itu bahasa pertama yang saya pelajari di FYP ini\n");
     } else {
